@@ -1,0 +1,15 @@
+--- 
+title: testNowDown
+layout: post
+---
+
+Here is my Git SVN workflow
+======
+
+{% highlight ruby %}def foo
+	puts 'foo'
+end
+{% endhighlight %}
+DC++
+	<h1>HTML code</h1>
+	<p class="some">This is an example</p>
